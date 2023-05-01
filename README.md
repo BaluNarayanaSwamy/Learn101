@@ -5,6 +5,12 @@ An attempt to create an index of learnings
  - Architecture Patterns
    - Layered
    - Event-Driven
+   - Microkernel
+   - Microservices
+   - Service-Based
+   - Space-Based
+   - Pipeline
+   - Modular
    - Client-Server
    - CQRS
    - MVC
@@ -49,3 +55,7 @@ An attempt to create an index of learnings
    - GitHub, Maven, Check Style, Find Bugs
    - Jira, Sonar, Jenkins
    - JMeter, Splunk
+
+### Key References
+https://martinfowler.com/tags/index.html
+https://developertoarchitect.com/lessons/
