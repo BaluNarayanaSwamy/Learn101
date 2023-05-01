@@ -57,5 +57,5 @@ An attempt to create an index of learnings
    - JMeter, Splunk
 
 ### Key References
-https://martinfowler.com/tags/index.html
-https://developertoarchitect.com/lessons/
+ - https://martinfowler.com/tags/index.html
+ - https://developertoarchitect.com/lessons/
